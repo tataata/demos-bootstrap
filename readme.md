@@ -24,10 +24,15 @@ This branch demoes Bootstrap added via CDN and utilities classes.
 8. **Typography/List** Add paragraph and list after the image.
 9. **Icon/Link** Add a link and use code snippet for the icon link: `icon-link icon-link-hover`
 10. **Helpers/Focus ring** Explore code snippet in the doc and remove what is not needed. In this demo it settled on `focus-ring focus-ring-light`
-11. In the assignment
-12. In the assignment
-13. In the assignment
+11. Leave for the assignment - **Utilities/Borders** Add borders to the main headline. `h1` --> `pb-3 border-bottom border-dark-subtle border-5`. `header` --> `pt-3 pb-3`
+12. Leave for the assignment - **Typography, Utilities/Borders** Make opening paragraph a lead one, add typography.
+13. Leave for the assignment - **Typography, Utilities/Borders, Helpers/Colors and Backgrounds, Utilities/Colors** Style the bloquote: add spading, adjust colors.
+14. Leave for the assignment - **Content/Tables** Add table and markup for table. Customize with `table table-hover table-dark table-striped`
 
 ### Hands-on practice with the assignment
+
+Brief the students before they start the assignemtn.
+
+Look at the mockup together. Analyse togehter which styles from Bootstrap they might need.
 
 See the content in the folder `assignment-cdn-utilities` for the guite for students.
