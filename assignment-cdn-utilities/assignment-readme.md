@@ -4,11 +4,14 @@ This assignment will help you to get familiar with the set of basics Bootstrap u
 
 # Task
 
-Use `page-content.md` provided for the content of your page.
-
 1. Start a new project. Add Bootsrap CSS only to it via CDN.
-2. Create layout that you have as a reference in the `mockup` folder. No optimisation for particular breakpoint (for now) is required at this point. But make sure the page layout is responsive across various screen sizes (extra small, small, middle, large and extra large ones).
-3. No CSS overrides (maybe only outline for marking containers, if you prefer). Only use of what Bootstrap has to offer.
+2. Create layout that you have as a reference in the `mockup/mockup-bootstrap-utilities.png` file..
+3. No optimisation for particular breakpoint (for now) is required at this point. But make sure the page layout is responsive across various screen sizes (extra small, small, middle, large and extra large ones).
+4. No CSS overrides (maybe only outline for marking containers, if you prefer). Only use prediined classes Bootstrap has to offer.
+
+## Content for the page
+
+- Content of the page in the `page-content.md` file.
 
 ## The scope and references
 
