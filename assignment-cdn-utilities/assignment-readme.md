@@ -11,7 +11,25 @@ Use `page-content.md` provided for the content of your page.
 3. Use [Bootstrap documentation](https://getbootstrap.com/docs/) for the reference while working.
 4. No CSS overrides (maybe only outline for marking containers, if you prefer). Only use of what Bootstrap has to offer.
 
-## Refreshers
+## The scope and leads
+
+Following sections in the documentation might be helpful during work on this assignment:
+
+- Layout/Breakpoints
+- Layout/Containers
+- Utilities/Colors
+- Utilities/Background
+- Utilities/Spacing
+- Utility/Sizing
+- Utilities/Text
+- Utilities/Borders
+- Content/Images
+- Typography
+- Icon/Link
+- Helpers/Focus ring
+- Helpers/Color and background
+
+## HTML refreshers
 
 1. Use `<abbr>` as needed to mark the abbriviations in the text.
 
