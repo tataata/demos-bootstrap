@@ -25,3 +25,8 @@ Also, expect **refreshers** on the HTML and Markdown on the way. In particular:
 
 1. HTML: use `<abbr>` as needed to mark the abbriviations in the text.
 2. HTML: table
+
+## Bonus
+
+Add links to external resourses mentioned in the text: [GitHub](https://github.com/) and [W3Techs](https://w3techs.com/).
+Make sure that the link will open in the new tab, indicate it with the icon `box-arrow-up-right`.
