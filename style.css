@@ -1,13 +1,7 @@
-.container:not(h1),
-.container-fluid:not(h1) {
-  background-color: rgba(0, 0, 0, 0.25);
-}
-
-[class*="col"] {
-  border: 2px solid rgba(0, 0, 0, 0.25);
-  min-height: 10rem;
+.row {
+  min-height: 7rem;
 }
 
 .container-fluid {
-  max-width: 1120px;
+  max-width: 1440px;
 }
