@@ -6,7 +6,7 @@ Use Bootstrap responsive grid classes and flexbox utilities to reproduce the sam
 
 Use the HTML starter provided in the `starter-markup.html`.
 
-We still work only with Botstrap CSS only, the CSS overrides should not happen.
+We work with Botstrap CSS only, the CSS overrides would be exessive.
 
 ## References and other leads
 
