@@ -1,7 +1,3 @@
 # Hello here!
 
-This repository is a collection of Bootstrap (v 5.3) demos.
-
-Browse different branches to see the materials.
-
-Cheers!
+This branch contain demo materials and assignemt on the components topic of Bootstrap.
