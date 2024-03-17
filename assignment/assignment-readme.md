@@ -27,7 +27,7 @@ Quickly prototype the landing page for a fictional product using Bootstrap:
    _ [Pricing](https://getbootstrap.com/docs/5.3/examples/pricing/)
    _ [Carousel](https://getbootstrap.com/docs/5.3/examples/carousel/)
    _ [Product](https://getbootstrap.com/docs/5.3/examples/product/)
-   Have a look on how Bootstrap examples are done (view the sourse of the page, inspect the elemetns in webdev tools), re-use and adjust techniques uses there.
+   Have a look at how Bootstrap examples are done (view the source of the page, inspect the elements in webdev tools), re-use and adjust techniques used there.
 
 3. For using interactive components you need to include Bootstrap JS. Reference how to do it via CDN [https://getbootstrap.com/docs/5.3/getting-started/download/#cdn-via-jsdelivr](https://getbootstrap.com/docs/5.3/getting-started/download/#cdn-via-jsdelivr)
 
@@ -46,7 +46,7 @@ Creation responsive layout for the landing page.
 Customisation of the styles page is out of scope of this part of the assignment.
 
 **Suggestion on use of color in this iteration:**
-Start to work in minimal color scheme, e.g. greyscale (dark or light scheme). If needed, use color accent on elements like links, icons, buttons or other controls of interactive elements. Customising the colors might be postponed to the 2nd iteration.
+Start to work in a minimal color scheme, e.g. greyscale (dark or light scheme). If needed, use color accent on elements like links, icons, buttons or other controls of interactive elements. Customising the colors might be postponed to the 2nd iteration.
 
 ### Requirements
 
@@ -77,7 +77,7 @@ Layout should be responsive
 
 ### Task
 
-When you have responsive layout of the landing page ready, gather feedback from minimum 2 peers. Make adjustments if needed after the peer reviews.
+When you have a responsive layout of the landing page ready, gather feedback from a minimum of 2 peers. Make adjustments if needed after the peer reviews.
 
 Customize styles of the layout:
 
