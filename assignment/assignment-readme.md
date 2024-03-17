@@ -35,7 +35,7 @@ Quickly prototype the landing page for a fictional product using Bootstrap:
 
 4. [Bootstrap’s CSS custom properties (variables)](https://getbootstrap.com/docs/5.3/customize/css-variables/)
 
-5. [CSS custom properties (variables) on W3School](https://www.w3schools.com/css/css3_variables.asp)
+5. [MDN: CSS custom properties (variables)](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 
 6. [Bootstrap Feature - CSS Variables by Coder Foundry](https://youtu.be/sFcj7UGUcrE?si=rA0Zzhitum5HDe6Y) - Use of CSS variables in Bootstrap 15' demo, check the code repo the link is in the video description.
 
