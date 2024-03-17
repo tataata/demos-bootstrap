@@ -23,21 +23,23 @@ Quickly prototype the landing page for a fictional product using Bootstrap:
 1. Bootstrap components documentation [https://getbootstrap.com/docs/5.0/components/](https://getbootstrap.com/docs/5.0/components/)
 
 2. Bootstrap custom components examples [https://getbootstrap.com/docs/5.0/examples/#custom-components](https://getbootstrap.com/docs/5.0/examples/#custom-components). In particular:
-   _ [Album](https://getbootstrap.com/docs/5.3/examples/album/)
-   _ [Pricing](https://getbootstrap.com/docs/5.3/examples/pricing/)
-   _ [Carousel](https://getbootstrap.com/docs/5.3/examples/carousel/)
-   _ [Product](https://getbootstrap.com/docs/5.3/examples/product/)
+
+   - [Album](https://getbootstrap.com/docs/5.3/examples/album/)
+   - [Pricing](https://getbootstrap.com/docs/5.3/examples/pricing/)
+   - [Carousel](https://getbootstrap.com/docs/5.3/examples/carousel/)
+   - [Product](https://getbootstrap.com/docs/5.3/examples/product/)
+
    Have a look at how Bootstrap examples are done (view the source of the page, inspect the elements in webdev tools), re-use and adjust techniques used there.
 
 3. For using interactive components you need to include Bootstrap JS. Reference how to do it via CDN [https://getbootstrap.com/docs/5.3/getting-started/download/#cdn-via-jsdelivr](https://getbootstrap.com/docs/5.3/getting-started/download/#cdn-via-jsdelivr)
 
 4. [Bootstrap’s CSS custom properties (variables)](https://getbootstrap.com/docs/5.3/customize/css-variables/)
 
-5. [CSS custom properties (variables)](https://www.w3schools.com/css/css3_variables.asp) -
+5. [CSS custom properties (variables) on W3School](https://www.w3schools.com/css/css3_variables.asp)
 
 6. [Bootstrap Feature - CSS Variables by Coder Foundry](https://youtu.be/sFcj7UGUcrE?si=rA0Zzhitum5HDe6Y) - Use of CSS variables in Bootstrap 15' demo, check the code repo the link is in the video description.
 
-===
+---
 
 ## Iteration 1: Composing responsive layout
 
@@ -71,13 +73,15 @@ Layout should be responsive
 - Add a modal component
 - Add a carousel
 
-===
+---
 
 ## Iteration 2: Customisation of the prototype
 
 ### Task
 
-When you have a responsive layout of the landing page ready, gather feedback from a minimum of 2 peers. Make adjustments if needed after the peer reviews.
+When you have a responsive layout of the landing page ready, gather feedback from a **minimum of 2 peers**.
+
+Make adjustments if needed after the peer reviews.
 
 Customize styles of the layout:
 
